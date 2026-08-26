@@ -5,3 +5,8 @@
 [submodule "bdc"]
 	path = bdc
 	url = https://github.com/brunobrr/bdc
+[submodule "taxadb"]
+	path = taxadb
+	url = https://github.com/ropensci/taxadb
+	branch = master
+	registered = false

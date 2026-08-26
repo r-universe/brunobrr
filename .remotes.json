@@ -1,0 +1,9 @@
+[
+  {
+    "package": "taxadb",
+    "url": "https://github.com/ropensci/taxadb",
+    "via": ["bdc"],
+    "branch": "master",
+    "from": "bdc"
+  }
+]
